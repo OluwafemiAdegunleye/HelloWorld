@@ -1,0 +1,15 @@
+/Users/oluwafemiadegunleye/Projects/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/oluwafemiadegunleye/Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/oluwafemiadegunleye/Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/oluwafemiadegunleye/Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/oluwafemiadegunleye/Projects/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/oluwafemiadegunleye/Projects/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
